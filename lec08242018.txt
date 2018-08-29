@@ -1,0 +1,40 @@
+what is statistics?
+- analyzing data
+- (market) research 
+- drawing conclusions 
+- charts and graphs
+
+what is data: set of individuals
+- on which we observe/measure
+- one or more variables (=variate) 
+
+Individuals and Variables:
+individuals
+- objects
+- subjects
+- cases
+- items
+- samples* (dif def)
+
+variables (quantiative, categorical=qualitative)
+*look at values and see if they have quantified values or not
+*numbers not necessarily quantitative i.g. cell phone 
+- features
+- properties
+- attributes
+
+i.g. 
+Berkeley Undergrad Students:
+- grade level = qual
+- major = qual
+- income/poverty ratio = quant
+- ethnicity = quant
+- hometown = qual
+- age = hybrid
+- stress level* = hybrid 
+- height = quant
+- gender = qual
+- smoking status (never, current, former) = qual
+- housing situations = qual
+- hair color
+- # of siblings
